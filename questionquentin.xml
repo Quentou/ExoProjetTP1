@@ -1,0 +1,10 @@
+<question type="projet">
+	<answer fraction="100">
+		<text>true</text>
+		<feedback><text>t'as hyper raison</text></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>false</text>
+		<feedback><text>tu t'es super gouré</text></feedback>
+	</answer>
+</question>
